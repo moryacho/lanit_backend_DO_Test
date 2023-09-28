@@ -79,7 +79,6 @@ namespace ConsoleApp
 
             string sdacha = GetSdacha(cost, customerSum);
             Console.WriteLine(sdacha);
-            Console.ReadLine();
         }
     }
 }
